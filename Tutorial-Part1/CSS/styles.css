@@ -1,0 +1,11 @@
+body {
+  margin: 10px;
+}
+
+p {
+  color: rgb(214, 59, 48);
+}
+
+a[href^="https"] {
+  color: orange;
+}
